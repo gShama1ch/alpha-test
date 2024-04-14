@@ -1,0 +1,13 @@
+{
+    "date": "2022-11-15",
+    "item_id": "39887130",
+    "inn": "1834051822",
+    "caller_id": "WSRM",
+    "data": {
+        "factor_1": "REVENUE",
+        "value": 100000
+    },
+    "quality": {
+        "COMP_SIZE": "МСБ"
+    }
+}
